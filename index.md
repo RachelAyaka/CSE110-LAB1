@@ -2,8 +2,7 @@
 ###### School year: 4th year
 ###### Major: Mathematics-Computer Science
 
-[Guam flag](guamflag.png)
-## My Background
+## [My Background](guamflag.png)
 I was born and raised on **Guam**
 ![This is an image of Guam](IMG_7406.jpg)
 All the information you have to know about Guam is [here](https://www.guamvisitorsbureau.com/)!
@@ -30,8 +29,8 @@ My favorite programming languages in order:
 3. Java
 
 These are the classes I need to take to graduate:
-- [] CSE 110
-- [] Math 111A
+- [x] CSE 110
+- [x] Math 111A
 - [] CSE 101
 - [] Math 181A
 
