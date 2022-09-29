@@ -31,6 +31,6 @@ My favorite programming languages in order:
 These are the classes I need to take to graduate:
 - [x] CSE 110
 - [x] Math 111A
-- [] CSE 101
-- [] Math 181A
+- [ ] CSE 101
+- [ ] Math 181A
 
